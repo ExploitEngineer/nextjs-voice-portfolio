@@ -7,18 +7,18 @@ export default function Home() {
     <div className="min-h-screen w-full overflow-x-hidden bg-black">
       <header className="relative min-h-screen">
         <GridPatternDashed />
-        <div className="absolute top-0 h-[600px] w-full">
+        <div className="absolute top-0 h-screen w-full">
           <LightRays
             raysOrigin="top-center"
             raysColor="#fff"
             raysSpeed={1.5}
-            lightSpread={0.8}
+            lightSpread={0.9}
             rayLength={1.3}
             followMouse={true}
             mouseInfluence={0.1}
             noiseAmount={0.3}
-            distortion={0.1}
-            className="custom-rays absolute left-30"
+            distortion={0.05}
+            className="custom-rays"
           />
         </div>
         <Navbar />

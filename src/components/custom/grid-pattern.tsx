@@ -5,15 +5,19 @@ import { GridPattern } from "@/components/magicui/grid-pattern";
 
 export function GridPatternDashed() {
   return (
-    <div className="absolute flex size-full items-center justify-center overflow-hidden rounded-lg">
+    <div className="absolute inset-0 flex items-center justify-center overflow-hidden rounded-lg">
       <GridPattern
-        width={70}
-        height={70}
+        width={91}
+        height={91}
         x={-1}
         y={-1}
-        strokeDasharray={"4 2"}
+        strokeDasharray="4 2"
         className={cn(
-          "[mask-image:radial-gradient(800px_circle_at_center,white,transparent)]",
+          "opacity-60",
+          "[mask-image:radial-gradient(ellipse_at_center,white_60%,transparent_90%),linear-gradient(to_bottom,transparent_0%,white_20%,white_80%,transparent_100%)]",
+          "[mask-composite:intersect]",
+          "[mask-repeat:no-repeat]",
+          "[mask-size:100%_100%]",
         )}
       />
     </div>
