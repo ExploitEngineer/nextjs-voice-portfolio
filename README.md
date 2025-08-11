@@ -2,8 +2,6 @@
 
 A **clean and modern personal portfolio** built for a **Customer Support Professional**, showcasing communication skills, work experience, and professionalism. Designed with **Next.js**, **TailwindCSS**, and smooth animations for a sleek, engaging, and responsive experience.
 
-![Portfolio Preview](https://ubaid-portfolio-omega.vercel.app/preview-image.png)
-
 ## 🌟 Features
 
 - **Professional Presentation** – Highlights expertise, career journey, and strengths.
