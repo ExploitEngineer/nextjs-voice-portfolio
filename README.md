@@ -1,47 +1,73 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# Next.js Voice Portfolio
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+A **clean and modern personal portfolio** built for a **Customer Support Professional**, showcasing communication skills, work experience, and professionalism. Designed with **Next.js**, **TailwindCSS**, and smooth animations for a sleek, engaging, and responsive experience.
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+![Portfolio Preview](https://ubaid-portfolio-omega.vercel.app/preview-image.png)
 
-# Features
+## 🌟 Features
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+- **Professional Presentation** – Highlights expertise, career journey, and strengths.
+- **Smooth Animations** – Powered by Framer Motion and other animation libraries for a polished feel.
+- **Responsive Design** – Fully optimized for desktops, tablets, and mobile devices.
+- **Modern Tech Stack** – Built with Next.js, TailwindCSS, and other modern tools.
+- **Voice-Friendly UI** – Designed with accessibility and clarity in mind.
 
-# Getting Started Locally
+## 💡 Tech Stack
 
-1. Clone this repository to your local machine:
+- [Next.js](https://nextjs.org/) – React framework for fast and scalable web apps.
+- [TailwindCSS](https://tailwindcss.com/) – Utility-first CSS for rapid UI development.
+- [Framer Motion](https://www.framer.com/motion/) – Smooth, declarative animations.
+- Additional animation and UI libraries for enhanced interactions.
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+## 🔗 Live Preview
 
-2. Move to the cloned directory
+Explore the live site here: **[Ubaid Portfolio](https://ubaid-portfolio-omega.vercel.app/)**
 
-   ```bash
-   cd portfolio
-   ```
+## 📅 About the Project
 
-3. Install dependencies:
+This portfolio was created to provide a **clear and visually appealing online presence** for a customer support professional. It emphasizes:
 
-   ```bash
-   pnpm install
-   ```
+- Clear communication of skills.
+- Modern and engaging design.
+- Smooth transitions and accessibility.
 
-4. Start the local Server:
+The site acts as a digital resume and personal brand hub.
 
-   ```bash
-   pnpm dev
-   ```
+## 🔧 Installation & Setup
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+If you want to run this project locally:
 
-# License
+```bash
+# Clone the repository
+git clone https://github.com/ExploitEngineer/nextjs-voice-portfolio.git
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+# Navigate to the project folder
+cd nextjs-voice-portfolio
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
+
+The app will be running at `http://localhost:3000/`.
+
+## 🚀 Deployment
+
+The project is easily deployable with [Vercel](https://vercel.com/):
+
+1. Push your code to GitHub.
+2. Import the repo into Vercel.
+3. Deploy and enjoy your live portfolio.
+
+## 💌 Contact
+
+For any inquiries or collaboration requests:
+
+- **Live Site:** [ubaid-portfolio-omega.vercel.app](https://ubaid-portfolio-omega.vercel.app/)
+- **GitHub:** [ExploitEngineer](https://github.com/ExploitEngineer)
+
+---
+
+✨ _A modern portfolio that blends professionalism with smooth, interactive design._
