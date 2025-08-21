@@ -74,8 +74,12 @@ export const DATA = {
       logoUrl: "/n-telecom.jpeg",
       start: "March 2025",
       end: "August 2025",
-      description:
-        "Optimized dialer operations to maximize call connectivity and provided IT support to telemarketing agents. Maintained accurate CRM data, supported lead generation, call routing, and campaign analysis. Collaborated with the team to improve remote work efficiency.",
+      description: [
+        "Managed and optimized dialer operations, ensuring high call connectivity rates.",
+        "Provided IT support for telemarketing agents, troubleshooting software & hardware issues.",
+        "Maintained CRM data accuracy, entering and updating customer information efficiently.",
+        "Assisted in lead generation, call routing, and campaign performance analysis. Collaborated with the team to streamline remote work processes.",
+      ],
     },
     {
       company: "Royal tech",
@@ -86,8 +90,12 @@ export const DATA = {
       logoUrl: "",
       start: "December 2024",
       end: "February 2025",
-      description:
-        "Managed dialer operations for optimal connectivity and supported telemarketing agents with IT issues. Maintained accurate CRM data, assisted in lead generation, and analyzed campaign performance. Streamlined remote work processes through team collaboration.",
+      description: [
+        "Managed and optimized dialer operations, ensuring high call connectivity rates.",
+        "Provided IT support for telemarketing agents, troubleshooting software & hardware issues.",
+        "Maintained CRM data accuracy, entering and updating customer information efficiently.",
+        "Assisted in lead generation, call routing, and campaign performance analysis. Collaborated with the team to streamline remote work processes.",
+      ],
     },
     {
       company: "P-tech People and Technology",
@@ -98,8 +106,17 @@ export const DATA = {
       logoUrl: "/p-tech.jpeg",
       start: "December 2023",
       end: "November 2024",
-      description:
-        "Managed IT team and resources while implementing strategies and policies. Oversaw systems, security, backups, and disaster recovery. Coordinated projects, resolved technical issues, and recommended solutions. Ensured compliance and adoption of emerging technologies.",
+      description: [
+        "Manage the IT team, providing guidance, training, and support",
+        "Develop and implement IT strategies, policies, and procedures",
+        "Oversee the installation, configuration, and maintenance of hardware and software systems",
+        "Ensure network security, data backup, and disaster recovery processes are in place",
+        "Collaborate with other departments to identify and prioritize IT projects",
+        "Analyze and troubleshoot technical issues, providing solutions and recommendations",
+        "Stay up-to-date with emerging technologies and trends, making recommendations for adoption",
+        "Manage IT budgets and resources, ensuring efficient use of funds",
+        "Ensure compliance with industry standards, regulations, and best practices",
+      ],
     },
     {
       company: "Hustler Marketing",
@@ -110,8 +127,13 @@ export const DATA = {
       logoUrl: "/hustler.jpeg",
       start: "June 2022",
       end: "November 2022",
-      description:
-        "Drove technological advancements in the BPO sector through strategic IT leadership. Improved efficiency and client satisfaction by executing targeted IT strategies. Led teams and projects to deliver quality solutions on time and within budget. Managed vendors to secure cost-effective, high-quality services.",
+      description: [
+        "Spearheaded the development and execution of IT strategies aligned with BPO objectives, resulting in enhanced operational efficiency and client satisfaction",
+        "IT team, fostering collaboration and ensuring high-performance standards in delivering technical support and solutions.",
+        "Oversee the installation, configuration, and maintenance of hardware and software systems",
+        "Led the planning and execution of IT projects, adhering to timelines and budget constraints, resulting in successful project deliveries",
+        "Managed relationships with external vendors, negotiating contracts and ensuring the procurement of quality IT services and products.",
+      ],
     },
 
     {
@@ -123,8 +145,12 @@ export const DATA = {
       logoUrl: "/satellite-bpo.jpeg",
       start: "August 2021",
       end: "April 2022",
-      description:
-        "Proficient in diverse IT systems, hardware, and software with expertise in troubleshooting, maintenance, and optimization. Skilled in implementing innovative solutions and staying updated on emerging technologies. Experienced in delivering reliable IT support, ensuring prompt issue resolution and high customer satisfaction. Strong analytical skills with a proven ability to solve complex technical problems.",
+      description: [
+        "Technical Expertise: Proficient in a wide range of IT systems, hardware, and software with a focus on troubleshooting, maintenance, and optimization.",
+        "Innovation: Contributed to the development and implementation of innovative solutions, keeping abreast of emerging technologies to enhance overall IT performance.",
+        "IT Support: Extensive experience in providing reliable IT support to end-users, addressing queries promptly, and maintaining high levels of customer satisfaction.",
+        "Problem-Solving: Adept at identifying and resolving complex technical issues, showcasing a strong analytical and problem-solving mindset.",
+      ],
     },
   ],
   education: [
